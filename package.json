@@ -2,7 +2,7 @@
   "name": "path-middleware",
   "version": "0.1.0",
   "description": "Path helper Expressjs Middleware",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
