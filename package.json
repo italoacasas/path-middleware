@@ -1,0 +1,31 @@
+{
+  "name": "path-middleware",
+  "version": "0.1.0",
+  "description": "Path helper Expressjs Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italoacasas/path-middleware.git"
+  },
+  "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/italoacasas/path-middleware/issues"
+  },
+  "homepage": "https://github.com/italoacasas/path-middleware#readme",
+  "keywords": [
+    "express",
+    "expressjs",
+    "node",
+    "middleware",
+    "path",
+    "helper",
+    "env"
+  ],
+  "devDependencies": {
+    "eslint": "^2.7.0"
+  }
+}
