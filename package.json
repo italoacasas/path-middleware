@@ -1,6 +1,6 @@
 {
   "name": "path-middleware",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Path helper Expressjs Middleware",
   "main": "lib/index.js",
   "scripts": {
