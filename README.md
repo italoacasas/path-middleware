@@ -19,6 +19,6 @@ const request = require('request')
 app.use(pathHelper(process.env.API_ENDPOINT, endpoint));
 
 app.get('/', (req, res) => {
-    const data = request.get(req.endpoint);
+    const data = request.get(res.endpoint);
 });
 ```
