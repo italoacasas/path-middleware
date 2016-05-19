@@ -1,7 +1,7 @@
 {
   "name": "path-middleware",
   "description": "Path helper Expressjs Middleware",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
   "bugs": {
     "url": "https://github.com/italoacasas/path-middleware/issues"
